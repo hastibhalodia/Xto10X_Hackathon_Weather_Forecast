@@ -43,7 +43,7 @@ A comprehensive weather forecasting system that combines real-time data with his
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/hastibhalodia/Xto10X_Hackathon_Weather_Forecast
    cd weather_forecast_HAC
    ```
 
@@ -63,7 +63,7 @@ A comprehensive weather forecasting system that combines real-time data with his
    - Add your WeatherAPI.com key:
      ```toml
      [weather_api]
-     api_key = "your-api-key-here"
+     api_key = "845fbd885adf4f2eb2e70629251204"
      ```
 
 5. **Run the dashboard**
